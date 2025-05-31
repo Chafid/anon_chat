@@ -36,7 +36,7 @@ cpanm Mojolicious Mojo::SQLite
 
 ```bash
 git clone https://github.com/chafid/anon_chat.git
-cd anonchat-mojo
+cd anon_chat
 ```
 
 2. Start the server with `morbo`:
