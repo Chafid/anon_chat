@@ -1,0 +1,4 @@
+chat.db
+.clj-kondo/
+.lsp/
+.vscode/
